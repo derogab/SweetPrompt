@@ -17,7 +17,7 @@ You can download the package and reference the JavaScript and CSS files:
 ```
 
 #Example SweetAlert
-View the [original source](https://github.com/t4t5/sweetalert)
+View the [SweetAlert source](https://github.com/t4t5/sweetalert)
 
 #Example SweetPrompt
 
