@@ -22,7 +22,7 @@ View the [original source](https://github.com/t4t5/sweetalert)
 #Example SweetPrompt
 
 ```javascript
-swalprompt("Title", "Description Content", "Confirm", "Cancel", function(response){
+sweetPrompt("Title", "Description Content", "Confirm", "Cancel", function(response){
 
   console.log('This is your response: '+response);
 
