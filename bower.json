@@ -1,0 +1,19 @@
+{
+  "name": "sweetPrompt",
+  "homepage": "https://github.com/gabrielederosa/SweetPrompt",
+  "authors": [
+    "Gabriele De Rosa <derosagabriele@outlook.it> (http://www.derosagabriele.com)"
+  ],
+  "description": "A beautiful replacement for JavaScript's prompt.",
+  "main": ["lib/sweet-alert.js", "lib/sweet-alert.css", "lib/sweet-prompt.js", "lib/sweet-prompt.css"],
+  "keywords": [
+    "alert",
+	  "prompt",
+    "modal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielederosa/SweetPrompt"
+  },
+  "license": "MIT"
+}
