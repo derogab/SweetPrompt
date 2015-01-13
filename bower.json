@@ -1,6 +1,6 @@
 {
-  "name": "sweetPrompt",
-  "homepage": "https://github.com/gabrielederosa/SweetPrompt",
+  "name": "SweetPrompt",
+  "homepage": "http://www.derosagabriele.com/project/sweetprompt/",
   "authors": [
     "Gabriele De Rosa <derosagabriele@outlook.it> (http://www.derosagabriele.com)"
   ],
@@ -8,7 +8,7 @@
   "main": ["lib/sweet-alert.js", "lib/sweet-alert.css", "lib/sweet-prompt.js", "lib/sweet-prompt.css"],
   "keywords": [
     "alert",
-	  "prompt",
+    "prompt",
     "modal"
   ],
   "repository": {
