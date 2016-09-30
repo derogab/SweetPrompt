@@ -32,9 +32,9 @@ sweetPrompt("Title", "Description Content", "Confirm", "Cancel", function(respon
 #Credits
 <b>Gabriele De Rosa</b>
 <ul>
-<li>[GitHub](https://www.github.com/derogab)</li>
-<li>[Facebook](https://www.facebook.com/derogab)</li>
-<li>[Twitter](https://www.twitter.com/derogab)</li>
+<li><a href="https://www.github.com/derogab">GitHub</a></li>
+<li><a href="https://www.facebook.com/derogab">Facebook</a></li>
+<li><a href="https://www.twitter.com/derogab">Twitter</a></li>
 </ul>
 
 <hr>
