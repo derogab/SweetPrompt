@@ -28,3 +28,14 @@ sweetPrompt("Title", "Description Content", "Confirm", "Cancel", function(respon
 
 });
 ```
+
+#Credits
+<b>Gabriele De Rosa</b>
+<ul>
+<li>[GitHub](https://www.github.com/derogab)</li>
+<li>[Facebook](https://www.facebook.com/derogab)</li>
+<li>[Twitter](https://www.twitter.com/derogab)</li>
+</ul>
+
+<hr>
+[Donate me something.](https://www.paypal.me/derogab)
