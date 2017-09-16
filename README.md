@@ -1,4 +1,11 @@
 # SweetPrompt
+
+[![GitHub stars](https://img.shields.io/github/stars/derogab/SweetPrompt.svg)](https://github.com/derogab/SweetPrompt/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/derogab/SweetPrompt.svg)](https://github.com/derogab/SweetPrompt/network)
+[![GitHub issues](https://img.shields.io/github/issues/derogab/SweetPrompt.svg)](https://github.com/derogab/SweetPrompt/issues)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/derogab/SweetPrompt/master/LICENSE)
+[![Status](https://img.shields.io/badge/status-deprecated-red.svg)](#Deprecated)
+
 An awesome replacement for JavaScript's prompt.
 It is only an addition of [SweetAlert](https://github.com/t4t5/sweetalert) by Tristan Edwards ([@t4t5](https://github.com/t4t5)).
 
@@ -6,7 +13,7 @@ It is only an addition of [SweetAlert](https://github.com/t4t5/sweetalert) by Tr
 
 ![Dimostration](https://cloud.githubusercontent.com/assets/4183824/5696868/a63946e8-99df-11e4-9d22-03f3579e2459.gif)
 
-#Usage
+## Usage
 You can download the package and reference the JavaScript and CSS files:
 
 ```html
@@ -16,10 +23,10 @@ You can download the package and reference the JavaScript and CSS files:
 <link rel="stylesheet" type="text/css" href="lib/sweet-prompt.css">
 ```
 
-#Example SweetAlert
-View the [SweetAlert source](https://github.com/t4t5/sweetalert)
+## Example SweetAlert
+View the [SweetAlert source](https://github.com/t4t5/sweetalert).
 
-#Example SweetPrompt
+## Example SweetPrompt
 
 ```javascript
 sweetPrompt("Title", "Description Content", "Confirm", "Cancel", function(response){
@@ -29,7 +36,7 @@ sweetPrompt("Title", "Description Content", "Confirm", "Cancel", function(respon
 });
 ```
 
-#Credits
+## Credits
 <b>Gabriele De Rosa</b>
 <ul>
 <li><a href="https://www.github.com/derogab">GitHub</a></li>
@@ -37,5 +44,8 @@ sweetPrompt("Title", "Description Content", "Confirm", "Cancel", function(respon
 <li><a href="https://www.twitter.com/derogab">Twitter</a></li>
 </ul>
 
-<hr>
-[Donate me something.](https://www.paypal.me/derogab)
+## Deprecated
+This repository is deprecated because **SweetPrompt** is now natively contained in [SweetAlert](https://github.com/t4t5/sweetalert).
+
+## Donate
+If this project help you reduce time to develop, you can [give me a cup of coffee](https://www.paypal.me/derogab) :)
