@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/derogab/SweetPrompt.svg)](https://github.com/derogab/SweetPrompt/network)
 [![GitHub issues](https://img.shields.io/github/issues/derogab/SweetPrompt.svg)](https://github.com/derogab/SweetPrompt/issues)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/derogab/SweetPrompt/master/LICENSE)
-[![Status](https://img.shields.io/badge/status-deprecated-red.svg)](#Deprecated)
+[![Status](https://img.shields.io/badge/status-deprecated-red.svg)](#deprecated)
 
 An awesome replacement for JavaScript's prompt.
 It is only an addition of [SweetAlert](https://github.com/t4t5/sweetalert) by Tristan Edwards ([@t4t5](https://github.com/t4t5)).
